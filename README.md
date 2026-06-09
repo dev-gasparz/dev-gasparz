@@ -2,7 +2,32 @@
 Checksum 9839069056253336
 -->
 
-Hello I’m a web developer with many talents!
+Gabriel Gaspar 
+--
+Oi, que bom ver você por aqui!🖖
+
+Sou engenheiro de software com 4 anos de experiência, com foco em front-end, VTEX IO e desenvolvimento para e-commerce.
+Ao longo da minha trajetória, atuei no desenvolvimento e suporte de diversos sites e experiências digitais, incluindo projetos ligados a marcas como OPPO, DJI, Sennheiser e Wellness. Tenho experiência com React, GraphQL, VTEX Master Data e soluções voltadas para plataformas de e-commerce.
+
+
+Gosto de trabalhar próximo ao time, contribuindo com boa comunicação, novas ideias e melhorias que ajudam a evoluir tanto os produtos quanto os processos do dia a dia.
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/umgaspar">
+        <img 
+            alt="LinkedIn Seguidores"
+            title="Conecte-se comigo no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+        />
+    </a>
+    <a href="https://www.instagram.com/umgaspar_/"> 
+        <img 
+            alt="Instagram Seguidores"
+            title="Siga-me no Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-%2B450-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
+        />
+    </a>
+</p>
 
 # 💻 Tech Stack:
 
